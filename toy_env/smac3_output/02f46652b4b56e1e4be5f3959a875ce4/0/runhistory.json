@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "submitted": 2,
+    "finished": 1,
+    "running": 1
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692797480.6505299,
+      1692797480.6516533,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 100, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ]
+  ],
+  "configs": {
+    "1": {
+      "n_channels_conv_0": 1,
+      "n_conv_layers": 1
+    },
+    "2": {
+      "n_channels_conv_0": 2,
+      "n_conv_layers": 0
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol"
+  }
+}

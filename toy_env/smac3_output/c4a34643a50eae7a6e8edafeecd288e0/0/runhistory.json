@@ -1,0 +1,413 @@
+{
+  "stats": {
+    "submitted": 20,
+    "finished": 20,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.552586,
+      1692831126.5547364,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.56405,
+      1692831126.5658545,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.5875502,
+      1692831126.5893972,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.6095173,
+      1692831126.610996,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.6330237,
+      1692831126.6342387,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.646889,
+      1692831126.6479514,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.6703749,
+      1692831126.6720588,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831126.6905844,
+      1692831126.6922941,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.0877764,
+      1692831127.0884404,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.1096025,
+      1692831127.1102614,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.1177797,
+      1692831127.1199346,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.1285083,
+      1692831127.1299407,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.1505167,
+      1692831127.1516132,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.1617913,
+      1692831127.162426,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.173196,
+      1692831127.1751978,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.1939325,
+      1692831127.194828,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.816341,
+      1692831127.8172524,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.8405597,
+      1692831127.8413346,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.8538587,
+      1692831127.8546119,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831127.8786972,
+      1692831127.8802702,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 102, in train\n    assert x1 < 42\nTypeError: '<' not supported between instances of 'NoneType' and 'int'\n",
+        "error": "TypeError(\"'<' not supported between instances of 'NoneType' and 'int'\")"
+      }
+    ]
+  ],
+  "configs": {
+    "1": {
+      "n_channels_conv_0": 1,
+      "x1": 2
+    },
+    "2": {
+      "n_channels_conv_0": 2,
+      "x1": 1
+    },
+    "3": {
+      "n_channels_conv_0": 2,
+      "x1": 2
+    },
+    "4": {
+      "n_channels_conv_0": 1,
+      "x1": 1
+    },
+    "5": {
+      "n_channels_conv_0": 1,
+      "x1": 3
+    },
+    "6": {
+      "n_channels_conv_0": 3,
+      "x1": 1
+    },
+    "7": {
+      "n_channels_conv_0": 2,
+      "x1": 3
+    },
+    "8": {
+      "n_channels_conv_0": 3,
+      "x1": 2
+    },
+    "9": {
+      "n_channels_conv_0": 512,
+      "x1": 40
+    },
+    "10": {
+      "n_channels_conv_0": 511,
+      "x1": 41
+    },
+    "11": {
+      "n_channels_conv_0": 511,
+      "x1": 42
+    },
+    "12": {
+      "n_channels_conv_0": 510,
+      "x1": 40
+    },
+    "13": {
+      "n_channels_conv_0": 510,
+      "x1": 42
+    },
+    "14": {
+      "n_channels_conv_0": 0,
+      "x1": 0
+    },
+    "15": {
+      "n_channels_conv_0": 504,
+      "x1": 42
+    },
+    "16": {
+      "n_channels_conv_0": 512,
+      "x1": 42
+    },
+    "17": {
+      "n_channels_conv_0": 510,
+      "x1": 41
+    },
+    "18": {
+      "n_channels_conv_0": 508,
+      "x1": 41
+    },
+    "19": {
+      "n_channels_conv_0": 508,
+      "x1": 39
+    },
+    "20": {
+      "n_channels_conv_0": 511,
+      "x1": 40
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Acquisition Function Maximizer: Random Search (sorted)",
+    "10": "Acquisition Function Maximizer: Random Search (sorted)",
+    "11": "Acquisition Function Maximizer: Random Search (sorted)",
+    "12": "Acquisition Function Maximizer: Random Search (sorted)",
+    "13": "Acquisition Function Maximizer: Random Search (sorted)",
+    "14": "Acquisition Function Maximizer: Local Search",
+    "15": "Random Search",
+    "16": "Random Search",
+    "17": "Acquisition Function Maximizer: Random Search (sorted)",
+    "18": "Acquisition Function Maximizer: Random Search (sorted)",
+    "19": "Acquisition Function Maximizer: Random Search (sorted)",
+    "20": "Random Search"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "stats": {
+    "submitted": 5,
+    "finished": 0,
+    "running": 5
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      2147483647.0,
+      0.0,
+      0,
+      0.0,
+      0.0,
+      {}
+    ]
+  ],
+  "configs": {
+    "1": {
+      "batch_size": 4,
+      "dropout_rate": 0.2,
+      "global_avg_pooling": false,
+      "kernel_size": 3,
+      "learning_rate_init": 3.447778908242489e-05,
+      "n_channels_conv_0": 57,
+      "n_channels_fc_0": 348,
+      "n_conv_layers": 2,
+      "n_fc_layers": 3,
+      "use_BN": false,
+      "n_channels_conv_1": 231,
+      "n_channels_fc_1": 77,
+      "n_channels_fc_2": 281
+    },
+    "2": {
+      "batch_size": 371,
+      "dropout_rate": 0.2,
+      "global_avg_pooling": true,
+      "kernel_size": 3,
+      "learning_rate_init": 0.034765630633336146,
+      "n_channels_conv_0": 244,
+      "n_channels_fc_0": 99,
+      "n_conv_layers": 3,
+      "n_fc_layers": 1,
+      "use_BN": true,
+      "n_channels_conv_1": 58,
+      "n_channels_conv_2": 22
+    },
+    "3": {
+      "batch_size": 71,
+      "dropout_rate": 0.2,
+      "global_avg_pooling": false,
+      "kernel_size": 3,
+      "learning_rate_init": 0.002750793699580413,
+      "n_channels_conv_0": 123,
+      "n_channels_fc_0": 38,
+      "n_conv_layers": 3,
+      "n_fc_layers": 2,
+      "use_BN": true,
+      "n_channels_conv_1": 26,
+      "n_channels_conv_2": 71,
+      "n_channels_fc_1": 428
+    },
+    "4": {
+      "batch_size": 3,
+      "dropout_rate": 0.2,
+      "global_avg_pooling": true,
+      "kernel_size": 3,
+      "learning_rate_init": 0.12735501431517846,
+      "n_channels_conv_0": 433,
+      "n_channels_fc_0": 190,
+      "n_conv_layers": 1,
+      "n_fc_layers": 2,
+      "use_BN": false,
+      "n_channels_fc_1": 33
+    },
+    "5": {
+      "batch_size": 1,
+      "dropout_rate": 0.2,
+      "global_avg_pooling": false,
+      "kernel_size": 3,
+      "learning_rate_init": 0.004805443980650378,
+      "n_channels_conv_0": 282,
+      "n_channels_fc_0": 143,
+      "n_conv_layers": 2,
+      "n_fc_layers": 2,
+      "use_BN": true,
+      "n_channels_conv_1": 21,
+      "n_channels_fc_1": 222
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol"
+  }
+}

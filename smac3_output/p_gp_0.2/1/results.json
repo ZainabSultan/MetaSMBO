@@ -1,0 +1,215 @@
+{
+    "args": {
+        "experiment_name": "pgp0.2v3_s1",
+        "working_dir": "/pfs/work7/workspace/scratch/fr_zs53-automl",
+        "runtime": 21600,
+        "no_test": true,
+        "datasetpath": "/scratch/slurm_tmpdir/job_22558041/data",
+        "overwrite": false,
+        "seed": 1,
+        "device": "cuda",
+        "n_workers": 4,
+        "n_trials": 150,
+        "log_level": "DEBUG",
+        "download": false,
+        "metadata_file": "/scratch/slurm_tmpdir/job_22558041/metadata/deepweedsx_balanced-epochs-trimmed.csv",
+        "evaluate_test": true
+    },
+    "items": [
+        {
+            "val-acc": 0.21255032742385915,
+            "walltime": 485.7406723499298,
+            "config_id": 2,
+            "config": {
+                "batch_size": 57,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 2.176327980641481e-05,
+                "n_channels_conv_0": 60,
+                "n_channels_fc_0": 263,
+                "n_conv_layers": 1,
+                "n_fc_layers": 1,
+                "use_BN": false
+            },
+            "test-acc": 0.2266666672937572
+        },
+        {
+            "val-acc": 0.35901708173971936,
+            "walltime": 509.0698266029358,
+            "config_id": 3,
+            "config": {
+                "batch_size": 712,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": false,
+                "kernel_size": 3,
+                "learning_rate_init": 0.003655241719032488,
+                "n_channels_conv_0": 132,
+                "n_channels_fc_0": 142,
+                "n_conv_layers": 2,
+                "n_fc_layers": 3,
+                "use_BN": false,
+                "n_channels_conv_1": 503,
+                "n_channels_fc_1": 468,
+                "n_channels_fc_2": 184
+            },
+            "test-acc":  0.4575000011920929
+        },
+        {
+            "val-acc": 0.5088157556536262,
+            "walltime": 1203.0010097026825,
+            "config_id": 7,
+            "config": {
+                "batch_size": 124,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": false,
+                "kernel_size": 3,
+                "learning_rate_init": 0.000340154668477031,
+                "n_channels_conv_0": 44,
+                "n_channels_fc_0": 469,
+                "n_conv_layers": 2,
+                "n_fc_layers": 2,
+                "use_BN": true,
+                "n_channels_conv_1": 23,
+                "n_channels_fc_1": 83
+            },
+            "test-acc": 0.5366666582226753
+        },
+        {
+            "val-acc": 0.5097875717769277,
+            "walltime": 2394.167521715164,
+            "config_id": 11,
+            "config": {
+                "batch_size": 188,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": false,
+                "kernel_size": 3,
+                "learning_rate_init": 0.00012809148645349152,
+                "n_channels_conv_0": 260,
+                "n_channels_fc_0": 112,
+                "n_conv_layers": 1,
+                "n_fc_layers": 2,
+                "use_BN": true,
+                "n_channels_fc_1": 20
+            },
+            "test-acc": 0.535833303630352
+        },
+        {
+            "val-acc": 0.5596279622564113,
+            "walltime": 3142.3835599422455,
+            "config_id": 16,
+            "config": {
+                "batch_size": 15,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 1.2544119197819362e-05,
+                "n_channels_conv_0": 173,
+                "n_channels_fc_0": 409,
+                "n_conv_layers": 2,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 68
+            },
+            "test-acc": 0.5741666997782886
+        },
+        {
+            "val-acc": 0.6389004874565395,
+            "walltime": 3535.9247331619263,
+            "config_id": 18,
+            "config": {
+                "batch_size": 28,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0003697491143810613,
+                "n_channels_conv_0": 331,
+                "n_channels_fc_0": 137,
+                "n_conv_layers": 3,
+                "n_fc_layers": 3,
+                "use_BN": true,
+                "n_channels_conv_1": 300,
+                "n_channels_conv_2": 230,
+                "n_channels_fc_1": 137,
+                "n_channels_fc_2": 136
+            },
+            "test-acc": 0.6316666987538337
+        },
+        {
+            "val-acc": 0.6579203109815355,
+            "walltime": 8356.955940961838,
+            "config_id": 40,
+            "config": {
+                "batch_size": 16,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0001671584034445669,
+                "n_channels_conv_0": 76,
+                "n_channels_fc_0": 90,
+                "n_conv_layers": 2,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 349
+            },
+            "test-acc": 0.7108333333333333
+        },
+        {
+            "val-acc": 0.6773566683886466,
+            "walltime": 10990.514196157455,
+            "config_id": 56,
+            "config": {
+                "batch_size": 84,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 9.353828005092952e-05,
+                "n_channels_conv_0": 344,
+                "n_channels_fc_0": 283,
+                "n_conv_layers": 2,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 399
+            },
+            "test-acc": 0.7366666826605797
+        },
+        {
+            "val-acc": 0.6873524957244038,
+            "walltime": 17701.554109096527,
+            "config_id": 95,
+            "config": {
+                "batch_size": 38,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 8.605871573303273e-05,
+                "n_channels_conv_0": 344,
+                "n_channels_fc_0": 292,
+                "n_conv_layers": 2,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 452
+            },
+            "test-acc": 0.710833336909612
+        },
+        {
+            "val-acc": 0.7017909003871358,
+            "walltime": 22021.42148542404,
+            "config_id": 119,
+            "config": {
+                "batch_size": 31,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 8.404947440994484e-05,
+                "n_channels_conv_0": 252,
+                "n_channels_fc_0": 496,
+                "n_conv_layers": 2,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 469
+            },
+            "test-acc": 0.6783333074549834
+        }
+    ]
+}

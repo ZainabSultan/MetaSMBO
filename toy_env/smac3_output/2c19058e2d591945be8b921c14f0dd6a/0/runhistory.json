@@ -1,0 +1,1353 @@
+{
+  "stats": {
+    "submitted": 67,
+    "finished": 67,
+    "running": 0
+  },
+  "data": [
+    [
+      1,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831600.9275372,
+      1692831600.9288318,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      2,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831600.936623,
+      1692831600.9386566,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      3,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831600.9478288,
+      1692831600.9486578,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      4,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831600.9680965,
+      1692831600.9687157,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      5,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831600.9779212,
+      1692831600.9794736,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      6,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831601.0020645,
+      1692831601.0031292,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      7,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831601.0115092,
+      1692831601.0128448,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      8,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831601.0323973,
+      1692831601.0338347,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      9,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.0179217,
+      1692831602.0209095,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      10,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.1731434,
+      1692831602.1753867,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      11,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.2138271,
+      1692831602.2150111,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      12,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.2365751,
+      1692831602.2381139,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      13,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.2577472,
+      1692831602.2586892,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      14,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.2693305,
+      1692831602.2711031,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      15,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.2936463,
+      1692831602.2946694,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      16,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.313781,
+      1692831602.3149035,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      17,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.3250751,
+      1692831602.32668,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      18,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.3464766,
+      1692831602.3471258,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      19,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.3706672,
+      1692831602.3724356,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      20,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831602.3830993,
+      1692831602.3844266,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      21,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.0029862,
+      1692831603.0040767,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      22,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.0131128,
+      1692831603.013796,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      23,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.0331697,
+      1692831603.034671,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      24,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.043678,
+      1692831603.0443003,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      25,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.0533686,
+      1692831603.0559802,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      26,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.0746477,
+      1692831603.0752344,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      27,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.0857537,
+      1692831603.0873866,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      28,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.1086369,
+      1692831603.1092386,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      29,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.6611094,
+      1692831603.6627133,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      30,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.6822727,
+      1692831603.683175,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      31,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.7054129,
+      1692831603.706273,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      32,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.7159538,
+      1692831603.7165911,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      33,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.7373602,
+      1692831603.7397423,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      34,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.7549374,
+      1692831603.7564168,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      35,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.7737656,
+      1692831603.7761474,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      36,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831603.7987926,
+      1692831603.8001332,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      37,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.3244488,
+      1692831604.326213,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      38,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.3447208,
+      1692831604.3461578,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      39,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.3720624,
+      1692831604.3743093,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      40,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.3829367,
+      1692831604.3838785,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      41,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.401922,
+      1692831604.4029236,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      42,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.4244466,
+      1692831604.4251919,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      43,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.446173,
+      1692831604.447653,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      44,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831604.455209,
+      1692831604.4566882,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      45,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.0351706,
+      1692831605.0358498,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      46,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.0618916,
+      1692831605.0631194,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      47,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.1098888,
+      1692831605.1109524,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      48,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.1352866,
+      1692831605.1359336,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      49,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.1565468,
+      1692831605.1571898,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      50,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.1780565,
+      1692831605.179024,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      51,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.201135,
+      1692831605.2018065,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      52,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.2212906,
+      1692831605.2227895,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      53,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.7958071,
+      1692831605.797102,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      54,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.8225377,
+      1692831605.823845,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      55,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.833773,
+      1692831605.8370953,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      56,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.8600953,
+      1692831605.8619127,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      57,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.8850553,
+      1692831605.8858,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      58,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.9057834,
+      1692831605.906751,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      59,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.9281533,
+      1692831605.9295332,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      60,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.948028,
+      1692831605.9488375,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      61,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831605.9760592,
+      1692831605.9768906,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      62,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831606.4809823,
+      1692831606.4824803,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      63,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831606.5058036,
+      1692831606.5081477,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      64,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831606.5277698,
+      1692831606.5283613,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 104, in train\n    assert x2 < 42\nAssertionError\n",
+        "error": "AssertionError()"
+      }
+    ],
+    [
+      65,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831606.551248,
+      1692831606.5522304,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      66,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831606.5701144,
+      1692831606.5713677,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ],
+    [
+      67,
+      null,
+      209652396,
+      null,
+      Infinity,
+      0.0,
+      2,
+      1692831606.5925841,
+      1692831606.59481,
+      {
+        "traceback": "Traceback (most recent call last):\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 173, in run\n    rval = self(config_copy, target_function, kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/venv/lib/python3.10/site-packages/smac/runner/target_function_runner.py\", line 246, in __call__\n    return algorithm(config, **algorithm_kwargs)\n  File \"/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/toy_env/toy_problem.py\", line 106, in train\n    cost = 100.0 * (x2 - x1**2.0) ** 2.0 + (1 - x1) ** 2.0\nTypeError: unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\n",
+        "error": "TypeError(\"unsupported operand type(s) for ** or pow(): 'NoneType' and 'float'\")"
+      }
+    ]
+  ],
+  "configs": {
+    "1": {
+      "n_channels_conv_0": -1,
+      "x1": 2
+    },
+    "2": {
+      "n_channels_conv_0": 5,
+      "x1": 1
+    },
+    "3": {
+      "n_channels_conv_0": 9,
+      "x1": 2
+    },
+    "4": {
+      "n_channels_conv_0": -5,
+      "x1": 1
+    },
+    "5": {
+      "n_channels_conv_0": -2,
+      "x1": 3
+    },
+    "6": {
+      "n_channels_conv_0": 8,
+      "x1": 1
+    },
+    "7": {
+      "n_channels_conv_0": 4,
+      "x1": 2
+    },
+    "8": {
+      "n_channels_conv_0": 2,
+      "x1": 1
+    },
+    "9": {
+      "n_channels_conv_0": 1,
+      "x1": 2
+    },
+    "10": {
+      "n_channels_conv_0": 3,
+      "x1": 2
+    },
+    "11": {
+      "n_channels_conv_0": 7,
+      "x1": 2
+    },
+    "12": {
+      "n_channels_conv_0": -3,
+      "x1": 1
+    },
+    "13": {
+      "n_channels_conv_0": -4,
+      "x1": 2
+    },
+    "14": {
+      "n_channels_conv_0": 10,
+      "x1": 1
+    },
+    "15": {
+      "n_channels_conv_0": 6,
+      "x1": 3
+    },
+    "16": {
+      "n_channels_conv_0": 0,
+      "x1": 1
+    },
+    "17": {
+      "n_channels_conv_0": 0,
+      "x1": 3
+    },
+    "18": {
+      "n_channels_conv_0": 6,
+      "x1": 1
+    },
+    "19": {
+      "n_channels_conv_0": 10,
+      "x1": 2
+    },
+    "20": {
+      "n_channels_conv_0": -4,
+      "x1": 1
+    },
+    "21": {
+      "n_channels_conv_0": 9,
+      "x1": 40
+    },
+    "22": {
+      "n_channels_conv_0": 6,
+      "x1": 41
+    },
+    "23": {
+      "n_channels_conv_0": 5,
+      "x1": 42
+    },
+    "24": {
+      "n_channels_conv_0": 4,
+      "x1": 42
+    },
+    "25": {
+      "n_channels_conv_0": 3,
+      "x1": 42
+    },
+    "26": {
+      "n_channels_conv_0": 2,
+      "x1": 40
+    },
+    "27": {
+      "n_channels_conv_0": 1,
+      "x1": 42
+    },
+    "28": {
+      "n_channels_conv_0": 4,
+      "x1": 0
+    },
+    "29": {
+      "n_channels_conv_0": -5,
+      "x1": 40
+    },
+    "30": {
+      "n_channels_conv_0": 7,
+      "x1": 41
+    },
+    "31": {
+      "n_channels_conv_0": 7,
+      "x1": 40
+    },
+    "32": {
+      "n_channels_conv_0": 10,
+      "x1": 41
+    },
+    "33": {
+      "n_channels_conv_0": 8,
+      "x1": 42
+    },
+    "34": {
+      "n_channels_conv_0": 2,
+      "x1": 42
+    },
+    "35": {
+      "n_channels_conv_0": -5,
+      "x1": 42
+    },
+    "36": {
+      "n_channels_conv_0": 7,
+      "x1": 42
+    },
+    "37": {
+      "n_channels_conv_0": 6,
+      "x1": 42
+    },
+    "38": {
+      "n_channels_conv_0": 1,
+      "x1": 41
+    },
+    "39": {
+      "n_channels_conv_0": 5,
+      "x1": 40
+    },
+    "40": {
+      "n_channels_conv_0": -5,
+      "x1": 41
+    },
+    "41": {
+      "n_channels_conv_0": -2,
+      "x1": 41
+    },
+    "42": {
+      "n_channels_conv_0": 0,
+      "x1": 41
+    },
+    "43": {
+      "n_channels_conv_0": 5,
+      "x1": 41
+    },
+    "44": {
+      "n_channels_conv_0": 0,
+      "x1": 0
+    },
+    "45": {
+      "n_channels_conv_0": -4,
+      "x1": 40
+    },
+    "46": {
+      "n_channels_conv_0": 0,
+      "x1": 42
+    },
+    "47": {
+      "n_channels_conv_0": -2,
+      "x1": 40
+    },
+    "48": {
+      "n_channels_conv_0": 6,
+      "x1": 40
+    },
+    "49": {
+      "n_channels_conv_0": -3,
+      "x1": 41
+    },
+    "50": {
+      "n_channels_conv_0": -2,
+      "x1": 42
+    },
+    "51": {
+      "n_channels_conv_0": -3,
+      "x1": 42
+    },
+    "52": {
+      "n_channels_conv_0": 7,
+      "x1": 0
+    },
+    "53": {
+      "n_channels_conv_0": -4,
+      "x1": 41
+    },
+    "54": {
+      "n_channels_conv_0": -1,
+      "x1": 41
+    },
+    "55": {
+      "n_channels_conv_0": -1,
+      "x1": 42
+    },
+    "56": {
+      "n_channels_conv_0": 3,
+      "x1": 0
+    },
+    "57": {
+      "n_channels_conv_0": 2,
+      "x1": 0
+    },
+    "58": {
+      "n_channels_conv_0": 6,
+      "x1": 0
+    },
+    "59": {
+      "n_channels_conv_0": 4,
+      "x1": 39
+    },
+    "60": {
+      "n_channels_conv_0": -1,
+      "x1": 0
+    },
+    "61": {
+      "n_channels_conv_0": 8,
+      "x1": 38
+    },
+    "62": {
+      "n_channels_conv_0": 4,
+      "x1": 41
+    },
+    "63": {
+      "n_channels_conv_0": 9,
+      "x1": 42
+    },
+    "64": {
+      "n_channels_conv_0": 10,
+      "x1": 42
+    },
+    "65": {
+      "n_channels_conv_0": -2,
+      "x1": 0
+    },
+    "66": {
+      "n_channels_conv_0": 1,
+      "x1": 0
+    },
+    "67": {
+      "n_channels_conv_0": -5,
+      "x1": 0
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Initial Design: Sobol",
+    "12": "Initial Design: Sobol",
+    "13": "Initial Design: Sobol",
+    "14": "Initial Design: Sobol",
+    "15": "Initial Design: Sobol",
+    "16": "Initial Design: Sobol",
+    "17": "Initial Design: Sobol",
+    "18": "Initial Design: Sobol",
+    "19": "Initial Design: Sobol",
+    "20": "Initial Design: Sobol",
+    "21": "Acquisition Function Maximizer: Random Search (sorted)",
+    "22": "Acquisition Function Maximizer: Random Search (sorted)",
+    "23": "Acquisition Function Maximizer: Random Search (sorted)",
+    "24": "Acquisition Function Maximizer: Random Search (sorted)",
+    "25": "Acquisition Function Maximizer: Random Search (sorted)",
+    "26": "Acquisition Function Maximizer: Random Search (sorted)",
+    "27": "Acquisition Function Maximizer: Random Search (sorted)",
+    "28": "Acquisition Function Maximizer: Local Search",
+    "29": "Acquisition Function Maximizer: Random Search (sorted)",
+    "30": "Acquisition Function Maximizer: Random Search (sorted)",
+    "31": "Acquisition Function Maximizer: Random Search (sorted)",
+    "32": "Acquisition Function Maximizer: Random Search (sorted)",
+    "33": "Acquisition Function Maximizer: Random Search (sorted)",
+    "34": "Random Search",
+    "35": "Random Search",
+    "36": "Acquisition Function Maximizer: Random Search (sorted)",
+    "37": "Acquisition Function Maximizer: Random Search (sorted)",
+    "38": "Acquisition Function Maximizer: Random Search (sorted)",
+    "39": "Acquisition Function Maximizer: Random Search (sorted)",
+    "40": "Acquisition Function Maximizer: Random Search (sorted)",
+    "41": "Random Search",
+    "42": "Acquisition Function Maximizer: Random Search (sorted)",
+    "43": "Random Search",
+    "44": "Acquisition Function Maximizer: Local Search",
+    "45": "Acquisition Function Maximizer: Random Search (sorted)",
+    "46": "Acquisition Function Maximizer: Random Search (sorted)",
+    "47": "Acquisition Function Maximizer: Random Search (sorted)",
+    "48": "Random Search",
+    "49": "Acquisition Function Maximizer: Random Search (sorted)",
+    "50": "Acquisition Function Maximizer: Random Search (sorted)",
+    "51": "Acquisition Function Maximizer: Random Search (sorted)",
+    "52": "Acquisition Function Maximizer: Local Search",
+    "53": "Acquisition Function Maximizer: Random Search (sorted)",
+    "54": "Random Search",
+    "55": "Acquisition Function Maximizer: Random Search (sorted)",
+    "56": "Acquisition Function Maximizer: Local Search",
+    "57": "Acquisition Function Maximizer: Local Search",
+    "58": "Acquisition Function Maximizer: Local Search",
+    "59": "Random Search",
+    "60": "Acquisition Function Maximizer: Local Search",
+    "61": "Random Search",
+    "62": "Acquisition Function Maximizer: Random Search (sorted)",
+    "63": "Random Search",
+    "64": "Random Search",
+    "65": "Acquisition Function Maximizer: Local Search",
+    "66": "Acquisition Function Maximizer: Local Search",
+    "67": "Acquisition Function Maximizer: Local Search"
+  }
+}

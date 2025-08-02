@@ -1,0 +1,215 @@
+{
+  "type": "Scheduler",
+  "id": "Scheduler-62645194-72d7-4d7b-b607-0ba63ff3d252",
+  "address": "tcp://127.0.0.1:43491",
+  "services": {
+    "dashboard": 8787
+  },
+  "started": 1692814429.350203,
+  "workers": {
+    "tcp://127.0.0.1:34049": {
+      "type": "Worker",
+      "id": 1,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/example/example/0/dask-scratch-space/worker-3tsm4ds8",
+      "name": 1,
+      "nthreads": 1,
+      "memory_limit": 4129901568,
+      "last_seen": 1692814432.3366108,
+      "services": {
+        "dashboard": 45905
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 476516352,
+        "time": 1692814432.3252995,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:34085"
+    },
+    "tcp://127.0.0.1:36861": {
+      "type": "Worker",
+      "id": 0,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/example/example/0/dask-scratch-space/worker-mnn7e7i7",
+      "name": 0,
+      "nthreads": 1,
+      "memory_limit": 4129901568,
+      "last_seen": 1692814432.3345654,
+      "services": {
+        "dashboard": 35267
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 475619328,
+        "time": 1692814432.3249037,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:45917"
+    },
+    "tcp://127.0.0.1:40251": {
+      "type": "Worker",
+      "id": 2,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/example/example/0/dask-scratch-space/worker-m_5ntzti",
+      "name": 2,
+      "nthreads": 1,
+      "memory_limit": 4129901568,
+      "last_seen": 1692814432.3242736,
+      "services": {
+        "dashboard": 38791
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 476209152,
+        "time": 1692814432.3131292,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:42705"
+    },
+    "tcp://127.0.0.1:40289": {
+      "type": "Worker",
+      "id": 3,
+      "host": "127.0.0.1",
+      "resources": {},
+      "local_directory": "/home/zainab/UniFreiburg/Semester4/AutoML_finalexam/automl-project-summer23-sumibo/example/example/0/dask-scratch-space/worker-c0wzdowr",
+      "name": 3,
+      "nthreads": 1,
+      "memory_limit": 4129901568,
+      "last_seen": 1692814432.3811111,
+      "services": {
+        "dashboard": 34819
+      },
+      "metrics": {
+        "task_counts": {},
+        "bandwidth": {
+          "total": 100000000,
+          "workers": {},
+          "types": {}
+        },
+        "digests_total_since_heartbeat": {},
+        "managed_bytes": 0,
+        "spilled_bytes": {
+          "memory": 0,
+          "disk": 0
+        },
+        "transfer": {
+          "incoming_bytes": 0,
+          "incoming_count": 0,
+          "incoming_count_total": 0,
+          "outgoing_bytes": 0,
+          "outgoing_count": 0,
+          "outgoing_count_total": 0
+        },
+        "event_loop_interval": 0.02,
+        "cpu": 0.0,
+        "memory": 476164096,
+        "time": 1692814432.3731427,
+        "host_net_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "host_disk_io": {
+          "read_bps": 0.0,
+          "write_bps": 0.0
+        },
+        "num_fds": 17
+      },
+      "status": "running",
+      "nanny": "tcp://127.0.0.1:41239"
+    }
+  }
+}

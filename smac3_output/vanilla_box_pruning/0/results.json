@@ -1,0 +1,185 @@
+{
+    "args": {
+        "experiment_name": "vanilla_box_pruning",
+        "working_dir": "/pfs/work7/workspace/scratch/fr_pb278-automl",
+        "runtime": 21600,
+        "datasetpath": "/scratch/slurm_tmpdir/job_22559929/data",
+        "overwrite": false,
+        "warmstart_smbo": false,
+        "warmstart_all_in": false,
+        "box_pruning": true,
+        "fanova_reduce_dim": false,
+        "lpi_reduce_dim": false,
+        "evaluate_test": true,
+        "max_config_calls": 1,
+        "seed": 0,
+        "device": "cuda",
+        "n_workers": 4,
+        "n_trials": 150,
+        "log_level": "INFO",
+        "download": false,
+        "metadata_file": "/scratch/slurm_tmpdir/job_22559929/metadata/deepweedsx_balanced-epochs-trimmed.csv"
+    },
+    "items": [
+        {
+            "val-acc": 0.3994169284139766,
+            "walltime": 490.22665143013,
+            "config_id": 4,
+            "config": {
+                "batch_size": 56,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0010232644067523706,
+                "n_channels_conv_0": 432,
+                "n_channels_fc_0": 115,
+                "n_conv_layers": 1,
+                "n_fc_layers": 2,
+                "use_BN": false,
+                "n_channels_fc_1": 34
+            },
+            "test-acc": 0.41333335431913537
+        },
+        {
+            "val-acc": 0.4859086753932136,
+            "walltime": 496.7968635559082,
+            "config_id": 1,
+            "config": {
+                "batch_size": 60,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": false,
+                "kernel_size": 3,
+                "learning_rate_init": 0.00016934166262701268,
+                "n_channels_conv_0": 135,
+                "n_channels_fc_0": 142,
+                "n_conv_layers": 2,
+                "n_fc_layers": 3,
+                "use_BN": false,
+                "n_channels_conv_1": 413,
+                "n_channels_fc_1": 49,
+                "n_channels_fc_2": 68
+            },
+            "test-acc": 0.5466666921973229
+        },
+        {
+            "val-acc": 0.665694861427026,
+            "walltime": 545.6121170520782,
+            "config_id": 2,
+            "config": {
+                "batch_size": 139,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0008882956327367333,
+                "n_channels_conv_0": 348,
+                "n_channels_fc_0": 86,
+                "n_conv_layers": 3,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 256,
+                "n_channels_conv_2": 66
+            },
+            "test-acc": 0.6933333498736223
+        },
+        {
+            "val-acc": 0.6837428843298174,
+            "walltime": 15033.061121225357,
+            "config_id": 103,
+            "config": {
+                "batch_size": 128,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0006602786471076287,
+                "n_channels_conv_0": 325,
+                "n_channels_fc_0": 86,
+                "n_conv_layers": 3,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 256,
+                "n_channels_conv_2": 57
+            },
+            "test-acc": 0.6575
+        },
+        {
+            "val-acc": 0.6904067891588744,
+            "walltime": 17288.32810974121,
+            "config_id": 118,
+            "config": {
+                "batch_size": 138,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0006737499298417399,
+                "n_channels_conv_0": 325,
+                "n_channels_fc_0": 86,
+                "n_conv_layers": 3,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 286,
+                "n_channels_conv_2": 56
+            },
+            "test-acc": 0.6975000163912773
+        },
+        {
+            "val-acc": 0.690684449150548,
+            "walltime": 17420.621986865997,
+            "config_id": 119,
+            "config": {
+                "batch_size": 139,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.000657806191817004,
+                "n_channels_conv_0": 324,
+                "n_channels_fc_0": 86,
+                "n_conv_layers": 3,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 257,
+                "n_channels_conv_2": 55
+            },
+            "test-acc": 0.6800000202407439
+        },
+        {
+            "val-acc": 0.6935999045169439,
+            "walltime": 21000.647361516953,
+            "config_id": 143,
+            "config": {
+                "batch_size": 139,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0006704078418634787,
+                "n_channels_conv_0": 324,
+                "n_channels_fc_0": 112,
+                "n_conv_layers": 3,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 257,
+                "n_channels_conv_2": 60
+            },
+            "test-acc": 0.5700000098844369
+        },
+        {
+            "val-acc": 0.7040122064984078,
+            "walltime": 21955.100420475006,
+            "config_id": 150,
+            "config": {
+                "batch_size": 142,
+                "dropout_rate": 0.2,
+                "global_avg_pooling": true,
+                "kernel_size": 3,
+                "learning_rate_init": 0.0006721133129590026,
+                "n_channels_conv_0": 324,
+                "n_channels_fc_0": 133,
+                "n_conv_layers": 3,
+                "n_fc_layers": 1,
+                "use_BN": true,
+                "n_channels_conv_1": 308,
+                "n_channels_conv_2": 56
+            },
+            "test-acc": 0.6741666525602341
+        }
+    ]
+}
