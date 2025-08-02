@@ -1,7 +1,7 @@
 # Improving SMAC using meta learning
 
 
-The results and methodology of this project have been reported in our poster, it is available [here](https://docs.google.com/presentation/d/1xrqW7t2xgRURZNMXMYRSrohDhscch6HFZrE38uW5l14/edit?usp=sharing)
+This work was done in collaboration with Phillip Bordne, under the machine learning lab at the University of Freiburg. The results and methodology of this project have been reported in our poster, it is available [here](https://docs.google.com/presentation/d/1xrqW7t2xgRURZNMXMYRSrohDhscch6HFZrE38uW5l14/edit?usp=sharing)
 
 This repository contains:
 
